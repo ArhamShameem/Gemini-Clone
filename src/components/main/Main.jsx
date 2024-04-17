@@ -8,7 +8,7 @@ const Main = () => {
     <div className='main'>
         <div className="nav">
             <p>Gemini</p>
-           <a> <p>Github</p></a>
+           <a href='https://github.com/ArhamShameem/Gemini-Clone'> <p>Github</p></a>
             <img src={assets.user_icon} alt=""/>
         </div>
         <div className="main-container">
